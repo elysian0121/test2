@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2024-09-30
-img: cabin.png
+img: circus.png
 alt: image-alt
 project-date: Septemper 2024
 client: Tamkang High School
