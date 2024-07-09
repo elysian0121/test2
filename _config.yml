@@ -41,15 +41,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://www.tksh.ntpc.edu.tw/
   - title: facebook
-    url:
+    url: https://www.facebook.com/p/%E6%96%B0%E5%8C%97%E5%B8%82%E7%A7%81%E7%AB%8B%E6%B7%A1%E6%B1%9F%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8-100064178763805/
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.tksh.ntpc.edu.tw/
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.tksh.ntpc.edu.tw/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/
 
 # Postal address (add as many lines as necessary)
 address:
