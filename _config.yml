@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
+title: Ruby
 email: your-email@domain.com
 url: "https://elysian0121.github.io/test2/"
 baseurl: "/test2"
 description: "Write an awesome description for your new site here. You can  edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "English Teacher - Math Teacher - Japanese teacher - Computer Science Enthusiast"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -57,7 +57,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Ruby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.'
 
 # Build settings
 markdown: kramdown
