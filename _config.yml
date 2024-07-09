@@ -3,7 +3,7 @@ title: Freelancer
 email: your-email@domain.com
 url: "https://elysian0121.github.io/test2/"
 baseurl: "/test2"
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Write an awesome description for your new site here. You can  edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
@@ -67,8 +67,9 @@ permalink: pretty
 defaults:
   - scope:
 
-theme: jekyll-theme-primer
+
       path: ""
       type: "posts"
     values:
       permalink: ""
+theme: jekyll-theme-primer
