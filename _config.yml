@@ -33,7 +33,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Tr. Ruby Lai
   location: Location
   social: Around the Web
   credits: Credits
@@ -53,11 +53,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 26 Zhenli Street
+  - line: Tamsui District, NTPC 251024
 
 # Credits content
-credits: 'Ruby is an English teacher working at a private high school in Tamsui, Taiwan. She has a passion for teaching and enjoys helping her students improve their English skills. She is also an enthusiast of innovative educational tools and often uses platforms like COZE and ChatGPT to enhance her teaching methods.'
+credits: 'Ruby is an English teacher working at a private high school in Tamsui, Taiwan.'
 
 # Build settings
 markdown: kramdown
